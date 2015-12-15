@@ -11,9 +11,7 @@ package rara;
  */
 public class Rara {
 
-    /**
-     * @param args the command line arguments
-     */
+    
     public static void main(String[] args) {
         System.out.println("Rara");
     }
